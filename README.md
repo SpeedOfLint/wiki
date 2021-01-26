@@ -1,1 +1,1 @@
-(my personal wiki)[/wiki]
+[my personal wiki](/wiki)
